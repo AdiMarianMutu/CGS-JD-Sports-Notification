@@ -1,0 +1,19 @@
+[time_stamp]
+9:29 PM Sunday, July 5, 2020
+[version]
+1.0
+[build]
+2097
+[erase_settings]
+false
+[change_log]
+<#
+Improved:
+
+ * Cleaned the GUI
+ 
+ 
+Fixed:
+
+ * App crashes when pressing the 'STOP' notification button after a phone reboot
+#>
